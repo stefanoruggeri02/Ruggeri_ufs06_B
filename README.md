@@ -12,7 +12,7 @@ Via "nc" / telnet
 Si scrivano le opportune classi/array JAVA a supporto (classe
 Wine) i cui attributi si ricavano dal seguente JSON...
 
-ip:172.16.150.1
+ip:172.16.150.205
 
 command:
 -red
